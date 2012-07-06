@@ -9,3 +9,8 @@ What's here now
 ---------------
 
 Mindmaps, notes mostly. I'm still trying to figure out if this is even *possible* (for me), so I'm trying to think small. Pretty sure that if I do do this it'll be in [Rails](http://rubyonrails.org), so I'm working from that assumption. So that means thinking about [MVC](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) type stuff. If you see anything totally wrong in my notes, please let me know.
+
+Also
+----
+
+I don't like the title.

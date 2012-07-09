@@ -13,4 +13,4 @@ Mindmaps, notes mostly. I'm still trying to figure out if this is even *possible
 Also
 ----
 
-I don't like the title.
+I don't like the name. Help me come up with something different, won't you?
